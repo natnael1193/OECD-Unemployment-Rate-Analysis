@@ -122,9 +122,3 @@ The predictive models developed in this project provide a solid foundation for m
 
 The key is not just prediction accuracy, but the ability to translate those predictions into timely, effective policy actions that address unemployment before it becomes a crisis.
 
----
-
-**Prepared for**: Professor [Name]
-**Prepared by**: Data Science Lab Team
-**Date**: March 2026
-**Contact**: [Insert Contact Information]
